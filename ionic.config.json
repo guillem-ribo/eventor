@@ -1,0 +1,7 @@
+{
+  "name": "eventor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
